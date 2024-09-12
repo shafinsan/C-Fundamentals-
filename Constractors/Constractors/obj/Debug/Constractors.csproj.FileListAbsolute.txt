@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\Constractors\Constractors\bin\Debug\Constractors.exe.config
+C:\Users\JABER\Desktop\github\c#\Constractors\Constractors\bin\Debug\Constractors.exe
+C:\Users\JABER\Desktop\github\c#\Constractors\Constractors\bin\Debug\Constractors.pdb
+C:\Users\JABER\Desktop\github\c#\Constractors\Constractors\obj\Debug\Constractors.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\Constractors\Constractors\obj\Debug\Constractors.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\Constractors\Constractors\obj\Debug\Constractors.exe
+C:\Users\JABER\Desktop\github\c#\Constractors\Constractors\obj\Debug\Constractors.pdb

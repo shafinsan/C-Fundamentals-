@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\Conditional Operators\Conditional Operators\bin\Debug\Conditional Operators.exe.config
+C:\Users\JABER\Desktop\github\c#\Conditional Operators\Conditional Operators\bin\Debug\Conditional Operators.exe
+C:\Users\JABER\Desktop\github\c#\Conditional Operators\Conditional Operators\bin\Debug\Conditional Operators.pdb
+C:\Users\JABER\Desktop\github\c#\Conditional Operators\Conditional Operators\obj\Debug\Conditional Operators.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\Conditional Operators\Conditional Operators\obj\Debug\Conditional Operators.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\Conditional Operators\Conditional Operators\obj\Debug\Conditional Operators.exe
+C:\Users\JABER\Desktop\github\c#\Conditional Operators\Conditional Operators\obj\Debug\Conditional Operators.pdb
