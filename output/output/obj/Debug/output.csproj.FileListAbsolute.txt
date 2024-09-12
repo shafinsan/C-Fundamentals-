@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\output\output\bin\Debug\output.exe.config
+C:\Users\JABER\Desktop\github\c#\output\output\bin\Debug\output.exe
+C:\Users\JABER\Desktop\github\c#\output\output\bin\Debug\output.pdb
+C:\Users\JABER\Desktop\github\c#\output\output\obj\Debug\output.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\output\output\obj\Debug\output.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\output\output\obj\Debug\output.exe
+C:\Users\JABER\Desktop\github\c#\output\output\obj\Debug\output.pdb

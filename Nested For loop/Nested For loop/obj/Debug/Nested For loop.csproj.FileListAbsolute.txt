@@ -1,0 +1,7 @@
+C:\Users\JABER\source\repos\Nested For loop\Nested For loop\bin\Debug\Nested For loop.exe.config
+C:\Users\JABER\source\repos\Nested For loop\Nested For loop\bin\Debug\Nested For loop.exe
+C:\Users\JABER\source\repos\Nested For loop\Nested For loop\bin\Debug\Nested For loop.pdb
+C:\Users\JABER\source\repos\Nested For loop\Nested For loop\obj\Debug\Nested For loop.csproj.AssemblyReference.cache
+C:\Users\JABER\source\repos\Nested For loop\Nested For loop\obj\Debug\Nested For loop.csproj.CoreCompileInputs.cache
+C:\Users\JABER\source\repos\Nested For loop\Nested For loop\obj\Debug\Nested For loop.exe
+C:\Users\JABER\source\repos\Nested For loop\Nested For loop\obj\Debug\Nested For loop.pdb

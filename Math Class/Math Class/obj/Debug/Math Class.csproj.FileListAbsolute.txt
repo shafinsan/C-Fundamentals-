@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\Math Class\Math Class\bin\Debug\Math Class.exe.config
+C:\Users\JABER\Desktop\github\c#\Math Class\Math Class\bin\Debug\Math Class.exe
+C:\Users\JABER\Desktop\github\c#\Math Class\Math Class\bin\Debug\Math Class.pdb
+C:\Users\JABER\Desktop\github\c#\Math Class\Math Class\obj\Debug\Math Class.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\Math Class\Math Class\obj\Debug\Math Class.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\Math Class\Math Class\obj\Debug\Math Class.exe
+C:\Users\JABER\Desktop\github\c#\Math Class\Math Class\obj\Debug\Math Class.pdb

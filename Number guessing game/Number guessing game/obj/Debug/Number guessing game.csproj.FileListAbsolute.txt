@@ -1,0 +1,7 @@
+C:\Users\JABER\source\repos\Number guessing game\Number guessing game\obj\Debug\Number guessing game.csproj.AssemblyReference.cache
+C:\Users\JABER\source\repos\Number guessing game\Number guessing game\obj\Debug\Number guessing game.csproj.CoreCompileInputs.cache
+C:\Users\JABER\source\repos\Number guessing game\Number guessing game\bin\Debug\Number guessing game.exe.config
+C:\Users\JABER\source\repos\Number guessing game\Number guessing game\bin\Debug\Number guessing game.exe
+C:\Users\JABER\source\repos\Number guessing game\Number guessing game\bin\Debug\Number guessing game.pdb
+C:\Users\JABER\source\repos\Number guessing game\Number guessing game\obj\Debug\Number guessing game.exe
+C:\Users\JABER\source\repos\Number guessing game\Number guessing game\obj\Debug\Number guessing game.pdb
