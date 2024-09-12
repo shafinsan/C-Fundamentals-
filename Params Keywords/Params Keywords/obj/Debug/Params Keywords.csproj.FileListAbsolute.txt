@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\Params Keywords\Params Keywords\bin\Debug\Params Keywords.exe.config
+C:\Users\JABER\Desktop\github\c#\Params Keywords\Params Keywords\bin\Debug\Params Keywords.exe
+C:\Users\JABER\Desktop\github\c#\Params Keywords\Params Keywords\bin\Debug\Params Keywords.pdb
+C:\Users\JABER\Desktop\github\c#\Params Keywords\Params Keywords\obj\Debug\Params Keywords.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\Params Keywords\Params Keywords\obj\Debug\Params Keywords.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\Params Keywords\Params Keywords\obj\Debug\Params Keywords.exe
+C:\Users\JABER\Desktop\github\c#\Params Keywords\Params Keywords\obj\Debug\Params Keywords.pdb
