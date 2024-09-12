@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\Logical Operators\Logical Operators\obj\Debug\Logical Operators.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\Logical Operators\Logical Operators\obj\Debug\Logical Operators.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\Logical Operators\Logical Operators\bin\Debug\Logical Operators.exe.config
+C:\Users\JABER\Desktop\github\c#\Logical Operators\Logical Operators\bin\Debug\Logical Operators.exe
+C:\Users\JABER\Desktop\github\c#\Logical Operators\Logical Operators\bin\Debug\Logical Operators.pdb
+C:\Users\JABER\Desktop\github\c#\Logical Operators\Logical Operators\obj\Debug\Logical Operators.exe
+C:\Users\JABER\Desktop\github\c#\Logical Operators\Logical Operators\obj\Debug\Logical Operators.pdb

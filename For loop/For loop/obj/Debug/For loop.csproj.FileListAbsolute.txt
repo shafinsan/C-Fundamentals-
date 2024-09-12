@@ -1,0 +1,7 @@
+C:\Users\JABER\source\repos\For loop\For loop\bin\Debug\For loop.exe.config
+C:\Users\JABER\source\repos\For loop\For loop\bin\Debug\For loop.exe
+C:\Users\JABER\source\repos\For loop\For loop\bin\Debug\For loop.pdb
+C:\Users\JABER\source\repos\For loop\For loop\obj\Debug\For loop.csproj.AssemblyReference.cache
+C:\Users\JABER\source\repos\For loop\For loop\obj\Debug\For loop.csproj.CoreCompileInputs.cache
+C:\Users\JABER\source\repos\For loop\For loop\obj\Debug\For loop.exe
+C:\Users\JABER\source\repos\For loop\For loop\obj\Debug\For loop.pdb

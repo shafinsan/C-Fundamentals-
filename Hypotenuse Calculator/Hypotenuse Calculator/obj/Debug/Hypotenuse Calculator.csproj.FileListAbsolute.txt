@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\Hypotenuse Calculator\Hypotenuse Calculator\bin\Debug\Hypotenuse Calculator.exe.config
+C:\Users\JABER\Desktop\github\c#\Hypotenuse Calculator\Hypotenuse Calculator\bin\Debug\Hypotenuse Calculator.exe
+C:\Users\JABER\Desktop\github\c#\Hypotenuse Calculator\Hypotenuse Calculator\bin\Debug\Hypotenuse Calculator.pdb
+C:\Users\JABER\Desktop\github\c#\Hypotenuse Calculator\Hypotenuse Calculator\obj\Debug\Hypotenuse Calculator.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\Hypotenuse Calculator\Hypotenuse Calculator\obj\Debug\Hypotenuse Calculator.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\Hypotenuse Calculator\Hypotenuse Calculator\obj\Debug\Hypotenuse Calculator.exe
+C:\Users\JABER\Desktop\github\c#\Hypotenuse Calculator\Hypotenuse Calculator\obj\Debug\Hypotenuse Calculator.pdb
