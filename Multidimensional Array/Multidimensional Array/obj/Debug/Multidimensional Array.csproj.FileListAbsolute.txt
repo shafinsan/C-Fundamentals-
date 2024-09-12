@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\Multidimensional Array\Multidimensional Array\bin\Debug\Multidimensional Array.exe.config
+C:\Users\JABER\Desktop\github\c#\Multidimensional Array\Multidimensional Array\bin\Debug\Multidimensional Array.exe
+C:\Users\JABER\Desktop\github\c#\Multidimensional Array\Multidimensional Array\bin\Debug\Multidimensional Array.pdb
+C:\Users\JABER\Desktop\github\c#\Multidimensional Array\Multidimensional Array\obj\Debug\Multidimensional Array.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\Multidimensional Array\Multidimensional Array\obj\Debug\Multidimensional Array.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\Multidimensional Array\Multidimensional Array\obj\Debug\Multidimensional Array.exe
+C:\Users\JABER\Desktop\github\c#\Multidimensional Array\Multidimensional Array\obj\Debug\Multidimensional Array.pdb
