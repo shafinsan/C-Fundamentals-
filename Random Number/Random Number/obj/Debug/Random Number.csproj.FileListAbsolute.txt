@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\Random Number\Random Number\bin\Debug\Random Number.exe.config
+C:\Users\JABER\Desktop\github\c#\Random Number\Random Number\bin\Debug\Random Number.exe
+C:\Users\JABER\Desktop\github\c#\Random Number\Random Number\bin\Debug\Random Number.pdb
+C:\Users\JABER\Desktop\github\c#\Random Number\Random Number\obj\Debug\Random Number.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\Random Number\Random Number\obj\Debug\Random Number.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\Random Number\Random Number\obj\Debug\Random Number.exe
+C:\Users\JABER\Desktop\github\c#\Random Number\Random Number\obj\Debug\Random Number.pdb

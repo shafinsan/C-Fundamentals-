@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\User Input\User Input\bin\Debug\User Input.exe.config
+C:\Users\JABER\Desktop\github\c#\User Input\User Input\bin\Debug\User Input.exe
+C:\Users\JABER\Desktop\github\c#\User Input\User Input\bin\Debug\User Input.pdb
+C:\Users\JABER\Desktop\github\c#\User Input\User Input\obj\Debug\User Input.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\User Input\User Input\obj\Debug\User Input.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\User Input\User Input\obj\Debug\User Input.exe
+C:\Users\JABER\Desktop\github\c#\User Input\User Input\obj\Debug\User Input.pdb

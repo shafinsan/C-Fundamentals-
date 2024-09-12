@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\String Methods\String Methods\bin\Debug\String Methods.exe.config
+C:\Users\JABER\Desktop\github\c#\String Methods\String Methods\bin\Debug\String Methods.exe
+C:\Users\JABER\Desktop\github\c#\String Methods\String Methods\bin\Debug\String Methods.pdb
+C:\Users\JABER\Desktop\github\c#\String Methods\String Methods\obj\Debug\String Methods.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\String Methods\String Methods\obj\Debug\String Methods.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\String Methods\String Methods\obj\Debug\String Methods.exe
+C:\Users\JABER\Desktop\github\c#\String Methods\String Methods\obj\Debug\String Methods.pdb
