@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\Abstract class\Abstract class\bin\Debug\Abstract class.exe.config
+C:\Users\JABER\Desktop\github\c#\Abstract class\Abstract class\bin\Debug\Abstract class.exe
+C:\Users\JABER\Desktop\github\c#\Abstract class\Abstract class\bin\Debug\Abstract class.pdb
+C:\Users\JABER\Desktop\github\c#\Abstract class\Abstract class\obj\Debug\Abstract class.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\Abstract class\Abstract class\obj\Debug\Abstract class.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\Abstract class\Abstract class\obj\Debug\Abstract class.exe
+C:\Users\JABER\Desktop\github\c#\Abstract class\Abstract class\obj\Debug\Abstract class.pdb

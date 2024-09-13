@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\List\List\bin\Debug\List.exe.config
+C:\Users\JABER\Desktop\github\c#\List\List\bin\Debug\List.exe
+C:\Users\JABER\Desktop\github\c#\List\List\bin\Debug\List.pdb
+C:\Users\JABER\Desktop\github\c#\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\List\List\obj\Debug\List.exe
+C:\Users\JABER\Desktop\github\c#\List\List\obj\Debug\List.pdb

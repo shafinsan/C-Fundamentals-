@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\JABER\Desktop\github\c#\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\JABER\Desktop\github\c#\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\JABER\Desktop\github\c#\Enums\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\JABER\Desktop\github\c#\Enums\Enums\obj\Debug\Enums.pdb
