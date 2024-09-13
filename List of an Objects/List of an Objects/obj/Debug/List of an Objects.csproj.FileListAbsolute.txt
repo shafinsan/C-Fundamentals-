@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\List of an Objects\List of an Objects\obj\Debug\List of an Objects.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\List of an Objects\List of an Objects\obj\Debug\List of an Objects.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\List of an Objects\List of an Objects\bin\Debug\List of an Objects.exe.config
+C:\Users\JABER\Desktop\github\c#\List of an Objects\List of an Objects\bin\Debug\List of an Objects.exe
+C:\Users\JABER\Desktop\github\c#\List of an Objects\List of an Objects\bin\Debug\List of an Objects.pdb
+C:\Users\JABER\Desktop\github\c#\List of an Objects\List of an Objects\obj\Debug\List of an Objects.exe
+C:\Users\JABER\Desktop\github\c#\List of an Objects\List of an Objects\obj\Debug\List of an Objects.pdb
