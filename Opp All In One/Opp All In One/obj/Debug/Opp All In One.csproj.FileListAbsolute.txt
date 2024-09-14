@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\github\c#\Opp All In One\Opp All In One\bin\Debug\Opp All In One.exe.config
+C:\Users\JABER\Desktop\github\c#\Opp All In One\Opp All In One\bin\Debug\Opp All In One.exe
+C:\Users\JABER\Desktop\github\c#\Opp All In One\Opp All In One\bin\Debug\Opp All In One.pdb
+C:\Users\JABER\Desktop\github\c#\Opp All In One\Opp All In One\obj\Debug\Opp All In One.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\github\c#\Opp All In One\Opp All In One\obj\Debug\Opp All In One.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\github\c#\Opp All In One\Opp All In One\obj\Debug\Opp All In One.exe
+C:\Users\JABER\Desktop\github\c#\Opp All In One\Opp All In One\obj\Debug\Opp All In One.pdb
